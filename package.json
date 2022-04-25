@@ -1,8 +1,8 @@
 {
-  "name": "vinted-discord-bot",
-  "version": "2.1.0",
+  "name": "discord-bot-vinted",
+  "version": "1.0",
   "main": "index.js",
-  "author": "Androz2091 <androz2091@gmail.com>",
+  "author": "Ayumi",
   "license": "MIT",
   "dependencies": {
     "discord-sync-commands": "^0.3.0",
