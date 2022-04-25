@@ -6,11 +6,6 @@ Un bot Discord pour Vinted, qui envoie un message lorsqu'une nouvelle annonce es
 
 🎈 Pour s'abonner, entrez n'importe quelle URL Vinted. Le bot déterminera automatiquement les filtres à appliquer aux résultats.
 
-## ...et recevez vos notifications !
-
-![notif](./examples/notif.png)
-
-
 ## Installation du bot open source
 
 **Contactez moi sur Discord (https://discord.gg/pPDYGJVRPp)**
